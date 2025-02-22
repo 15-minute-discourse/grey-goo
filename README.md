@@ -22,6 +22,27 @@ We'll break down:
 
 ---
 
+- [Is Gray Goo Our Future? 😨  Nanobots, AI, and the Ethics of Emerging Tech](#is-gray-goo-our-future---nanobots-ai-and-the-ethics-of-emerging-tech)
+  - [Current Regulations on Nanotechnology and Self-Replication Risks](#current-regulations-on-nanotechnology-and-self-replication-risks)
+  - [Ethical Dimensions of Self-Replicating Machines: A Shared Responsibility](#ethical-dimensions-of-self-replicating-machines-a-shared-responsibility)
+  - [Economic Implications of Widespread Nanotechnology](#economic-implications-of-widespread-nanotechnology)
+  - [Nanotechnology in Defense: A Dual-Edged Sword](#nanotechnology-in-defense-a-dual-edged-sword)
+  - [Containing the Uncontainable: Strategies Against Grey Goo](#containing-the-uncontainable-strategies-against-grey-goo)
+  - [The Potential of Grey Goo: Reshaping Life and Humanity](#the-potential-of-grey-goo-reshaping-life-and-humanity)
+  - [Economic Implications of Widespread Nanotechnology](#economic-implications-of-widespread-nanotechnology-1)
+  - [Ethical Dimensions of Self-Replicating Machines: A Shared Responsibility](#ethical-dimensions-of-self-replicating-machines-a-shared-responsibility-1)
+  - [Current Regulations on Nanotechnology and Self-Replication Risks](#current-regulations-on-nanotechnology-and-self-replication-risks-1)
+  - [Evolution of the Grey Goo Concept: From Science Fiction to Public Perception](#evolution-of-the-grey-goo-concept-from-science-fiction-to-public-perception)
+  - [Promising Real-World Nanotechnology Applications and the Grey Goo Distinction](#promising-real-world-nanotechnology-applications-and-the-grey-goo-distinction)
+  - [Speculative Benefits of Grey Goo for Humanity](#speculative-benefits-of-grey-goo-for-humanity)
+  - [Exploring the Potential Pros and Cons of Grey Goo](#exploring-the-potential-pros-and-cons-of-grey-goo)
+  - [Evaluating the Realism of the Grey Goo Scenario](#evaluating-the-realism-of-the-grey-goo-scenario)
+  - [The Case for Grey Goo: A First Contact Perspective](#the-case-for-grey-goo-a-first-contact-perspective)
+  - [Grey Goo Sitrep Report](#grey-goo-sitrep-report)
+
+
+---
+
 ## Current Regulations on Nanotechnology and Self-Replication Risks
 
 The sources primarily focus on AI safety and governance, not nanotechnology regulations. However, they provide insights into the broader context of governing emerging technologies and addressing potential risks, which can be applied to the question of nanotechnology regulation.
